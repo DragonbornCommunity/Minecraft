@@ -1,6 +1,7 @@
 # Minecraft
 Server di Minecraft della Community di Dragonborn
+FORUM -> http://forum.dragonborn.eu
 
-BISOGNO DI AIUTO? POSTA UN TICKET NELLA SEZIONE "Issues"
-
-COME POSTARE UN TICKET-> http://i.imgur.com/Z7Z2ylV.png?1
+# AIUTO
+Bisogno di aiuto? Posta un ticket nella sezione "Issues".
+COME POSTARE UN TICKET-> http://i.imgur.com/I0KJ7Lj.png
